@@ -1,4 +1,4 @@
-# PAYW Contributing Guidelines
+# Team836 Contributing Guidelines
 
 Please follow these guidelines when you are trying to contribute to PAYW software.
 
