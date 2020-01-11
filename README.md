@@ -1,6 +1,6 @@
 # Team836 Contributing Guidelines
 
-Please follow these guidelines when you are trying to contribute to PAYW software.
+Please follow these guidelines when you are trying to contribute to Team836 software.
 
 ## Language
 
